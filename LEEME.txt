@@ -1,0 +1,29 @@
+LA ISLA 3D — CAMBIOS REALES
+
+PARA MAC:
+1. Abre ABRIR_EN_MAC.command.
+2. Se abrirá el juego en Chrome/Safari con servidor local.
+
+PARA MÓVIL:
+1. Mac e iPhone en la misma Wi‑Fi.
+2. Abre ABRIR_EN_MAC.command.
+3. En el iPhone abre la URL que aparece en la ventana: http://IP_DEL_MAC:8080/ABRIR_JUEGO.html
+
+CONTENIDO AÑADIDO:
+- Camareros en la barra.
+- Gente bailando en la pista.
+- Papas revolconas en la barra.
+- Water estilo Moraleja con llave.
+- Carpeta rosa de polvos mágicos.
+- Zona chillout reforzada.
+- Pistola de agua.
+- Tienda de campaña sin palos.
+- Colchón pinchado.
+- Barca de remo.
+- DJ Malo y DJ Bueno.
+- Personaje festivalero censurado/no explícito.
+- Hamaca.
+- Fuente.
+- Barra de pole dance.
+
+Se mantiene la carpeta CODIGO_FUENTE separada para cambios futuros.
